@@ -68,7 +68,7 @@ const Sidebar = () => {
         )}
 
         <Discover/>
-        <SuggestAccounts/>
+        {/* <SuggestAccounts/> */}
         <Footer/>
         
       </div>
